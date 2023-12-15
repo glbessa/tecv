@@ -1,4 +1,4 @@
-defmodule Lista1 do
+defmodule Listas.Lista1 do
   # funcao que retorne se os quatro argumento sao iguais
   def quatro_iguais(a,b,c,d), do: a == b && b == c && c == d
   def quantos_iguais(a,b,c) do
